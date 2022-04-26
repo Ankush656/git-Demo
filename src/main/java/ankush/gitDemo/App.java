@@ -1,15 +1,13 @@
 package ankush.gitDemo;
 
-/**
- * Hello world!
- *
+
  */
 public class App 
 {
 	public void addData(String Data)
 	{
-		System.out.println("Data = "+Data);
-		if(Data.equals("ab"))
+		
+		if(Data.equals(Constant1.Data_type)))
 		{
 			System.out.println("Welcome");
 		}
